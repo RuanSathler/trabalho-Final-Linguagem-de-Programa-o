@@ -1,0 +1,25 @@
+# Ambientes virtuais Python
+venv/
+env/
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Coisas do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Modelos pesados de Inteligência Artificial
+*.gguf
+
+# Logs e relatórios gerados pelo jogo
+logs/
+resultado.txt
+
+# Arquivos compilados do Java/Kotlin
+*.class
+
+# Arquivos temporários de sistema
+.DS_Store
+*~
